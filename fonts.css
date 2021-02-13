@@ -5,12 +5,6 @@
    font-style: normal;
 }
 @font-face {
-   font-family: "Bebas Neue Book";
-   src: url("fonts/BebasNeueBook.eot") format("embedded-opentype"), url("fonts/BebasNeueBook.otf") format("opentype"), url("fonts/BebasNeueBook.woff") format("woff");
-   font-weight: normal;
-   font-style: normal;
-}
-@font-face {
    font-family: "Montserrat";
    src: url("fonts/Montserrat.eot") format("embedded-opentype"), url("fonts/Montserrat.otf") format("opentype"), url("fonts/Montserrat.woff") format("woff");
    font-weight: normal;
